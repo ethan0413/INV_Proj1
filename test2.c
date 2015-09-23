@@ -4,5 +4,7 @@ int function1()
 }
 int main()
 {
+	printf("");
+	printf("");
 	return 0;
 }
